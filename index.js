@@ -8,7 +8,7 @@ const changeBackground = () => {
 };
 
 const changeTitle = () => {
-  title.textContent = 'Git: cloning, resolve conflict';
+  title.textContent = 'Git: cloning, resolve conflict. Module Technologies';
 };
 
 changeButton.addEventListener('click', changeBackground);
